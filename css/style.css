@@ -1,0 +1,168 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* nav start */
+
+.nav{
+    width: 100%;
+    height: 1.8cm;
+    background-color:black;
+    opacity: 80%;
+    color: white;
+    position: fixed;
+}
+
+.f-left{
+    float: left;
+    margin-top: 22px;
+}
+
+.f-right{
+    float: right;
+    list-style: none;
+    margin-top: 25px;
+}
+
+.inline{
+    display: inline;
+    margin-right: 10px;
+}
+
+
+.margin{
+    width: 78%;
+    height: 100%;
+    margin: 0 auto;
+} 
+
+/* nav finished */
+
+/* section-1 start */
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.margin-2{
+    width: 100%;
+    height: 20cm;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 6cm;
+    font-style: oblique ;
+    background-image: url('background_img.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+h1{
+    font-size: 100px;
+}
+
+h2{
+    font-size: 60px;
+}
+
+button{
+    background-color: #ee0979;
+    color: white;
+    width: 5cm;
+    height: 2cm;
+    border: none;
+    border-radius: 20%;
+    margin-top: 15px;
+}
+
+button:hover {
+   background-color: #9b014c;
+    
+}
+
+/* section-2 start */
+
+.margin-3{
+    width: 35%;
+    height: 13cm;
+    margin-left: 5cm;
+    padding-right: 5%;
+    padding-top: 70px;
+}
+
+.img{
+    width: 30%;
+    margin-right: 200px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+h2{
+    font-size: 60px;
+}
+
+.guitar{
+    border-radius: 50%;
+    width: 40%;
+}
+
+/* section-2 finished */
+
+/* section-3 start */
+
+.margin-4{
+    width: 70%;
+    height: 13cm;
+    margin: 0 auto;
+    padding-top: 4cm;
+    padding-right: 0;
+    padding-left: 35%;
+}
+
+.img-2{
+    width: 30%;
+    border-radius: 50%;
+    margin-left: 15%;
+}
+
+
+
+/* section-3 finished */
+
+/* section-4 start */
+
+.margin-5{
+    width: 35%;
+    height: 14cm;
+    margin-left: 5cm;
+    padding-right: 5% ;
+    padding-top: 70px;
+}
+
+.img-3{
+    width: 30%;
+    margin-right: 200px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+
+/* section-4 finished */
+
+
+/* footer start */
+
+footer{
+    width: 100%;
+    height: 3.5cm;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    text-align: center;
+
+}
+
